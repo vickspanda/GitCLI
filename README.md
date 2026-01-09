@@ -4,3 +4,4 @@
 
 ## Some changes are from the new-branch
 
+Testing the soft and hard reset
